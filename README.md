@@ -20,7 +20,7 @@ The algorithm is mainly based on paper [Consistent Penetration Depth Estimation 
 
 two cube test
 
-![cube_collide](results/cube_collide)
+![cube_collide](results/cube_collide.gif)
 
 armadillo test
 
