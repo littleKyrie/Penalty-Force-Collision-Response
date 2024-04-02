@@ -18,5 +18,13 @@ The algorithm is mainly based on paper [Consistent Penetration Depth Estimation 
 
 ## Results
 
+two cube test
+
+![cube_collide](results/cube_collide)
+
+armadillo test
+
+![arma_collide](results/arma_collide)
+
 ## Future Work
 <p><strong>&bull;</strong> continue to improve the overall performance of the code <p>
