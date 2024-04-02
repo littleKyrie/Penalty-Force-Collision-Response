@@ -24,7 +24,7 @@ two cube test
 
 armadillo test
 
-![arma_collide](results/arma_collide)
+![arma_collide](results/arma_collide.gif)
 
 ## Future Work
 <p><strong>&bull;</strong> continue to improve the overall performance of the code <p>
